@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Cleo Buenaventura</h1>
-<h3 align="center">I am a third-year software development student seeking a 4-month summer co-op for 2024.</h3>
+<h3 align="center">I am a fourth-year software development student seeking a 4-month winter co-op for 2025</h3>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
