@@ -1,4 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Cleo Buenaventura</h1>
+
+[![An image of @cleobnvntra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cleobnvntra)](https://holopin.io/@cleobnvntra)
+
 <h3 align="center">I am a fourth-year software development student seeking a 4-month winter co-op for 2025</h3>
 
 <h2 align="center">Connect with me:</h2>
@@ -28,5 +31,3 @@
 
 <h3 align="center"> Tools </h3>
 <p align='center'> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></p>
-
-[![An image of @cleobnvntra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cleobnvntra)](https://holopin.io/@cleobnvntra)
