@@ -2,8 +2,6 @@
 
 [![An image of @cleobnvntra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cleobnvntra)](https://holopin.io/@cleobnvntra)
 
-<h3 align="center">I am a fourth-year software development student seeking a 4-month winter co-op for 2025</h3>
-
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/cleo-buenaventura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleo-buenaventura" height="30" width="40" /></a>
