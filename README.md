@@ -1,4 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Cleo Buenaventura</h1>
+<p align="center">I’m a Junior Software Developer who loves building things for the web and experimenting with new technologies. Most of my experience is in JavaScript and Python, and I’ve been exploring cloud development with AWS and Azure. I enjoy connecting systems together, solving tricky bugs, and making applications faster and more reliable.
+
+I’m comfortable working with REST APIs, GitHub workflows, and Agile-style collaboration, but I’m always looking for better ways to learn and improve. Whether it’s optimizing backend performance or trying out new frameworks, I’m driven by curiosity and the satisfaction of seeing something I’ve built come to life.</p>
 
 [![An image of @cleobnvntra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cleobnvntra)](https://holopin.io/@cleobnvntra)
 
